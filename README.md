@@ -13,3 +13,7 @@
 - [Contraseña](https://github.com/ferndozn-dev/Ejercicios-/blob/main/contrase%C3%B1a.java)
 - [Funciones](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Funciones.java), [Llamado de Funciones](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ejercicios_funciones.java)
 - [Arreglos](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Arreglos.java)
+- [Colas](https://github.com/ferndozn-dev/Ejercicios-/blob/main/colas.java)
+- [Filas](https://github.com/ferndozn-dev/Ejercicios-/blob/main/filas.java)
+- [Pila](https://github.com/ferndozn-dev/Ejercicios-/blob/main/pila.java)
+- [Cafeteria](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Cafeteria.java)
