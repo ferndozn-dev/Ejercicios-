@@ -18,5 +18,5 @@
 - [Pila](https://github.com/ferndozn-dev/Ejercicios-/blob/main/pila.java)
 - [Cafeteria](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Cafeteria.java)
 
-### Proyecto Parcial 1
+## Proyecto Parcial 1
 
