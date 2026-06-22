@@ -19,4 +19,4 @@
 - [Cafeteria](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Cafeteria.java)
 
 ## Proyecto Parcial 1
-
+-[Curos]
