@@ -19,4 +19,4 @@
 - [Cafeteria](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Cafeteria.java)
 
 ## Proyecto Parcial 1
--[Curos]
+-[Clases y objetos](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Curso.java), [Menú principal](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Main.java)
