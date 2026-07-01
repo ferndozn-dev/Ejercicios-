@@ -20,3 +20,6 @@
 
 ## Proyecto Parcial 1
 - [Clases y objetos](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Curso.java), [Menú principal](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Main.java)
+
+## Parcial 2
+- [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
