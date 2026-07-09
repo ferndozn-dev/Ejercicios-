@@ -24,4 +24,5 @@
 ## Parcial 2
 - [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
 - [Practica 2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazadaBasica.java)
-- [Practica 3]()
+- [Practica 3](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Nodo.java), [3.1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazada.java), [3.2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/PrincipalListaEnlazada.java)
+- [Practica 4](https://github.com/ferndozn-dev/Ejercicios-/blob/main/menulista.java)
