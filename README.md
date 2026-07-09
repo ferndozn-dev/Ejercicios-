@@ -23,3 +23,5 @@
 
 ## Parcial 2
 - [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
+- [Practica 2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazadaBasica.java)
+- [Practica 3]()
