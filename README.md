@@ -30,4 +30,4 @@
 - [Practica 6](https://github.com/ferndozn-dev/Ejercicios-/blob/main/MetodoRecursivo.java), [6.1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/factorial.java), [6.2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Fibonacci.java)
 
 ## Proyecto Parcial 2
-- [Main]()
+- [Main](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Main2.java)
