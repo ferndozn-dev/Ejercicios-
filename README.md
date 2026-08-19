@@ -31,3 +31,9 @@
 
 ## Proyecto Parcial 2
 - [Main](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Main2.java)
+
+## Parcial 3
+- [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
+- [Practica 2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazadaBasica.java)
+- [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
+- [Practica 2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazadaBasica.java)
