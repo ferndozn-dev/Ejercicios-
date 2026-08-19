@@ -33,7 +33,12 @@
 - [Main](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Main2.java)
 
 ## Parcial 3
-- [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
-- [Practica 2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazadaBasica.java)
-- [Practica 1](https://github.com/ferndozn-dev/Ejercicios-/blob/main/practica1p2.md)
-- [Practica 2](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ListaEnlazadaBasica.java)
+- [Arbol](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Arbol.java)
+- [BubbleSortBidireccional](https://github.com/ferndozn-dev/Ejercicios-/blob/main/BubbleSortBidireccional.java)
+- [GrafoMatriz](https://github.com/ferndozn-dev/Ejercicios-/blob/main/GrafoMatriz.java)
+- [Main](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Main3.java)
+- [Principal](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Principal.java)
+- [Nodo](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Nodo2.java)
+## Presentación
+- [QuickSortEjemplo](https://github.com/ferndozn-dev/Ejercicios-/blob/main/QuickSortEjemplo.java)
+
